@@ -1,0 +1,18 @@
+p {
+  width: 29px;
+  border: 50px solid red;
+  border-radius: 50px;
+  text-align:left;
+  text-decoration: underline;
+}
+
+h1 {
+  color: pink;
+}
+h1,h3 {
+  text-align:center;
+}
+body {
+
+  background-color: #2b6d46;
+}
